@@ -1,0 +1,3 @@
+[submodule "project_salary"]
+	path = project_salary
+	url = git@github.com:angirov/ml_salary.git
